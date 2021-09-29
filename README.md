@@ -1,2 +1,2 @@
-#  digitalzombies
-#  "Digital Zombies" DH Consultation Project for LIS 529 @ UW
+# digitalzombies
+"Digital Zombies" DH Consultation Project for LIS 529 @ UW
